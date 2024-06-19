@@ -1,1 +1,3 @@
-# dsa_sql_para_analise_de_dados_e_data_science_cap10
+# SQL para analise de dados e ciência de dados da Data Science Academy
+
+## Scripts e Exercícios do capítulo 10
